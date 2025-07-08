@@ -3,3 +3,4 @@
 </p>
 <a href="https://www.instagram.com/caseinn_nitrate/">
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/fate0/fate0/master/artwork/pusheencode.gif" />
+![Snake animation](https://github.com/caseinnnnitrate/caseinnnnitrate/blob/output/github-contribution-grid-snake.svg)
