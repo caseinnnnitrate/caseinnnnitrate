@@ -1,6 +1,23 @@
 <p align="center">
-  <img src="https://i.pinimg.com/originals/8e/46/15/8e46150f790fbefe438d9c2767c32ad1.gif text=Hey Everyone!🕹️/>
+<br/>
+<a href="https://www.linkedin.com/in/zayanaboobaker/">
+  <img alt="Zayan's LinkdeIN" width="50px" src="https://user-images.githubusercontent.com/43545812/144035037-0f415fc7-9f96-4517-a370-ccc6e78a714b.png" />
+</a>
+<a href="https://open.spotify.com/user/yv2bkw4hx04bephj0a5yedyd6?si=a07e363bb5274266">
+  <img alt="Zayan's Spotify" width="50px" src="https://user-images.githubusercontent.com/43545812/144035120-1ad5169b-91c7-4078-bef9-6a82c733f373.png" />
+</a>
+<br>
 </p>
-<a href="https://www.instagram.com/caseinn_nitrate/">
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/fate0/fate0/master/artwork/pusheencode.gif" />
-![Snake animation](https://github.com/caseinnnnitrate/caseinnnnitrate/blob/output/github-contribution-grid-snake.svg)
+```yaml
+name: Zayan Aboobaker
+located_in: India
+from: India
+education: ["Bachelor's in Artificial Intelligence & Machine Learning"]
+
+fields_of_interests: ["Machine Learning", "Deep Learning". "Artificial Intelligence", "Web Designing"]
+technical_background: ["Artificial Intelligence", "Machine Learning"]
+currently_learning: ["Deep Learning", "React", "Cybersecurity"]
+will_learn: ["Blockchain (backend)"]
+hobbies: ["Music", "Cinematography", "Competitive Gaming", "Graphic Designing"]
+```
+[![caseinnnnitrate](https://spotify-github-profile.kittinanx.com/api/view?uid=yv2bkw4hx04bephj0a5yedyd6&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=yv2bkw4hx04bephj0a5yedyd6&redirect=true)
