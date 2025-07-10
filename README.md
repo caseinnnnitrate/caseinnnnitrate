@@ -23,3 +23,4 @@ will_learn: ["Blockchain (backend)"]
 hobbies: ["Music", "Cinematography", "Competitive Gaming", "Graphic Designing"]
 ```
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=yv2bkw4hx04bephj0a5yedyd6&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/fate0/fate0/master/artwork/pusheencode.gif" />
