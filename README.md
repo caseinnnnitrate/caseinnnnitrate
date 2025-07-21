@@ -22,5 +22,5 @@ currently_learning: ["Deep Learning", "React", "Cybersecurity"]
 will_learn: ["Blockchain (backend)"]
 hobbies: ["Music", "Cinematography", "Competitive Gaming", "Graphic Designing"]
 ```
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=yv2bkw4hx04bephj0a5yedyd6&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/caseinnnnitrate/)
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=yv2bkw4hx04bephj0a5yedyd6&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)]((https://open.spotify.com/user/yv2bkw4hx04bephj0a5yedyd6?si=ff8ec2920931493c))
 <img align="right" alt="coding" width="430" src = "https://images-cdn.exchange.art/qshqgr0cjqmr5phD1tK-3gnohYWmfcXwx6VWnk27o38?ext=fastly&optimize=medium'jpg ">
